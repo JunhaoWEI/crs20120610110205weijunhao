@@ -17,8 +17,7 @@
         android:singleLine="false"
         android:layout_centerHorizontal="true"
         android:textAppearance="?android:textAppearanceMedium"
-        android:hint="Numbers and operators"
-        android:inputType="number"/>
+        android:hint="Numbers and operators"/>
     <TextView
         android:id="@+id/input_hint"
         android:layout_width="match_parent"
